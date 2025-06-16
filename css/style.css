@@ -1,0 +1,96 @@
+/* Fundo principal */
+body {
+    background-color: #F9FAFB; /* Snow White */
+    color: #111827; /* Charcoal Ink - texto principal */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Sidebar */
+.sidebar {
+    background-color: #F9FAFB; /* Snow White */
+    border-right: 1px solid #D1D5DB; /* Ash Gray */
+    height: 100vh;
+    padding-top: 1rem;
+}
+
+/* Links da sidebar */
+.sidebar .nav-link {
+    color: #6B7280; /* Soft Slate - texto secundário */
+    font-size: 1.5rem;
+    transition: color 0.3s ease;
+}
+
+.sidebar .nav-link i {
+    color: #6B7280; /* Soft Slate */
+    transition: color 0.3s ease;
+}
+
+.sidebar .nav-link:hover,
+.sidebar .nav-link.active {
+    color: #FACC15 !important; /* Luma Gold */
+}
+
+.sidebar .nav-link:hover i,
+.sidebar .nav-link.active i {
+    color: #FACC15 !important; /* Luma Gold */
+}
+
+/* Navbar topo */
+.navbar {
+    background-color: #F9FAFB; /* Snow White */
+    border-bottom: 1px solid #D1D5DB; /* Ash Gray */
+}
+
+.navbar-brand,
+.nav-link.active {
+    color: #111827; /* Charcoal Ink */
+    font-weight: 600;
+}
+
+/* Cards */
+.card {
+    background-color: white;
+    border: 1px solid #D1D5DB; /* Ash Gray */
+    border-radius: 8px;
+}
+
+/* Headers dos cards */
+.card-header h6 {
+    color: #111827; /* Charcoal Ink */
+    font-weight: 700;
+}
+
+/* Texto normal dentro dos cards */
+.card-body span {
+    color: #6B7280; /* Soft Slate */
+}
+
+/* Valores positivos (exemplo saldo) */
+.text-success {
+    color: #10B981 !important; /* Forest Mist */
+}
+
+/* Valores negativos (exemplo despesas) */
+.text-danger {
+    color: #F87171 !important; /* Coral Blush */
+}
+
+/* Linha divisória */
+hr {
+    border-color: #D1D5DB; /* Ash Gray */
+}
+
+/* Fundo hover de botões e interações (exemplo: credit card visual) */
+.credit-card-visual .card {
+    background-color: #E5E7EB; /* Lavender Fog */
+    color: #111827; /* Charcoal Ink */
+}
+
+/* Progress bars */
+.progress-bar.bg-success {
+    background-color: #10B981 !important; /* Forest Mist */
+}
+
+.progress-bar.bg-warning {
+    background-color: #FACC15 !important; /* Luma Gold */
+}
