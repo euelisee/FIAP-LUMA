@@ -1,12 +1,8 @@
-# LUMA - Dashboard Financeiro
-
-![Dashboard Preview](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rascunho_tela_luma1.drawio-ZiLfvgXWCsBD2Rrpkdzg1a3Ml0Xveo.png)
-
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 LUMA é um dashboard financeiro moderno e responsivo desenvolvido como projeto acadêmico de Fintech da FIAP. Oferece uma interface intuitiva para visualização e controle de dados financeiros pessoais.
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - **Dashboard Principal** com visão geral das finanças
 - **Resumo Financeiro** (saldo, cartão de crédito, total)
@@ -17,7 +13,7 @@ LUMA é um dashboard financeiro moderno e responsivo desenvolvido como projeto a
 - **Budgets** com barras de progresso para metas
 - **Design Responsivo** para todos os dispositivos
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **HTML5** + **CSS3**
 - **Bootstrap 5** (layout responsivo)
@@ -25,7 +21,7 @@ LUMA é um dashboard financeiro moderno e responsivo desenvolvido como projeto a
 - **Font Awesome** (ícones)
 - **JavaScript** (funcionalidades dinâmicas)
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Clone o repositório:
 ```bash
@@ -42,20 +38,14 @@ luma-dashboard/
 ├─├── styles.css
 └── README.md
 ```
-
-## 📱 Design
-
-- **Cores**: Azul (#0d6efd), Verde (#28a745), Vermelho (#dc3545)
-- **Layout**: Sidebar compacta + área principal
-- **Responsivo**: Desktop, tablet e mobile
-- **Gráficos**: Pizza (gastos) + Linha (evolução temporal)
-
-## 👨‍💻 Autor
+## Autor
 
 Elise Oliveira - RM562016
 Projeto acadêmico de desenvolvimento web - Fintech
 
 ---
+# LUMA - Dashboard Financeiro - Visual
+![Dashboard Preview](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rascunho_tela_luma1.drawio-ZiLfvgXWCsBD2Rrpkdzg1a3Ml0Xveo.png)
 
 **LUMA Dashboard** - Transformando dados financeiros em insights visuais 📊💰
 ```
