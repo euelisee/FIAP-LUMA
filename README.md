@@ -25,7 +25,7 @@ LUMA é um dashboard financeiro moderno e responsivo desenvolvido como projeto a
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/luma-dashboard.git
+git clone https://github.com/seu-usuario/FIAP-LUMA.git
 ```
 
 2. Abra o arquivo `index.html` no navegador
