@@ -49,5 +49,3 @@ Projeto acadêmico de desenvolvimento web - Fintech
 
 **LUMA Dashboard** - Transformando dados financeiros em insights visuais 📊💰
 ```
-
-Agora você pode copiar todo o conteúdo acima e colar diretamente no seu arquivo README.md no GitHub! O arquivo já está formatado corretamente com a imagem do seu rascunho incluída.
